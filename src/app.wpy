@@ -97,6 +97,7 @@
         'pages/shop/reduce_edit',
         'pages/shop/limit',
         'pages/shop/edit',
+        'pages/shop/sign_in',
         'pages/goods/list',
         'pages/goods/category',
         'pages/goods/category_edit',
